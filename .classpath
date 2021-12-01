@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="resources/libraries/sphinx4-core-5prealpha-20160628.232526-10.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/SimpleSpeechCalculators/useful-docs/sphinx4-core-5prealpha-20160628.232526-10-sources.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="resources/libraries/sphinx4-data-5prealpha-20160628.232535-10.jar"/>
+	<classpathentry kind="lib" path="F:/School/Sem3/Artificial Intelligence/freetts-1.2/lib/jsapi.jar"/>
+	<classpathentry kind="lib" path="F:/School/Sem3/Artificial Intelligence/freetts-1.2/lib/en_us.jar"/>
+	<classpathentry kind="lib" path="F:/School/Sem3/Artificial Intelligence/freetts-1.2/lib/freetts-jsapi10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
